@@ -22,4 +22,8 @@ Key steps to implement the ERC-20 token are:
 6. Verify the deployment on the Goerli Etherscan.
 7. Interact with the deployed ERC-20 token by sending tokens or querying balances.
 
-Please note that this is a simplified summary of the key steps involved.
+As an example of an ERC-20 Token implementation using this specific project is the TBackers Token deployed on Goerli and that can be found at the following address:
+
+0x71fD88b251219B9aA4477Fdb2C0a296d4118FF47
+
+Cf. link to Etherscan for Goerli network: https://goerli.etherscan.io/address/0x71fD88b251219B9aA4477Fdb2C0a296d4118FF47
